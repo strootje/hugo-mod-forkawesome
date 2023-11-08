@@ -1,4 +1,4 @@
-module git.strooweb.nl/strooware/hugo-mod-forkawesome
+module git.strooware.nl/hugo-mod-forkawesome
 
 go 1.20
 
